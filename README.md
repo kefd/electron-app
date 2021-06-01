@@ -18,3 +18,4 @@ author and description can be any value, but are necessary for app packaging.
   "license": "MIT"
 }
 ```
+`yarn add -D electron`
