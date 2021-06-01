@@ -19,3 +19,13 @@ author and description can be any value, but are necessary for app packaging.
 }
 ```
 `yarn add -D electron`
+
+```json
+{
+  "scripts": {
+    "start": "electron ."
+  }
+}
+```
+
+
